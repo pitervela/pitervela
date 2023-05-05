@@ -1,4 +1,4 @@
-# ![name](https://user-images.githubusercontent.com/115201845/211271648-e5090c01-abc8-4e3a-908d-a0bb837f0c85.svg)
+# ![name](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3muy4-chB0ewVDA86hjAKZ4lbqq6n3w-OVwWOK4cvYEVHEtOvu_ktxvbYdEjP74De9Bw&usqp=CAU)
 
 ![spectra-program-management-side-1024x576](https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg)
 
