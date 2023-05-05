@@ -1,5 +1,3 @@
-<!-- # ![name](https://user-images.githubusercontent.com/115201845/211271648-e5090c01-abc8-4e3a-908d-a0bb837f0c85.svg) -->
-
 # ![name](https://www.agiratech.com/wp-content/uploads/2019/06/3D-Model-in-Web-Browser-using-WebGL-and-Three.jpg)
 
 
@@ -117,6 +115,4 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a>
-
-
 </p>
